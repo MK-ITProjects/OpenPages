@@ -1,0 +1,19 @@
+[{
+  "_id": {
+    "$oid": "6a5137209ea2b620fb8f0fad"
+  },
+  "post": {
+    "$oid": "6a5136ff9ea2b620fb8f0fa5"
+  },
+  "author": {
+    "$oid": "6a5135e59ea2b620fb8f0f73"
+  },
+  "text": "🏞️",
+  "createdAt": {
+    "$date": "2026-07-10T18:17:04.516Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-10T18:17:04.516Z"
+  },
+  "__v": 0
+}]

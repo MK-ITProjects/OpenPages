@@ -1,0 +1,537 @@
+[{
+  "_id": {
+    "$oid": "6a5136509ea2b620fb8f0f86"
+  },
+  "title": "Top Programming Languages to Learn in 2026",
+  "slug": "top-programming-languages-to-learn-in-2026",
+  "content": "Programming languages such as Python, JavaScript, Java, C++, and Go continue to be popular for web development, artificial intelligence, mobile apps, and cloud computing.",
+  "coverImage": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?w=1000",
+  "status": "published",
+  "readTimeMinutes": 1,
+  "author": {
+    "$oid": "6a5135e59ea2b620fb8f0f73"
+  },
+  "tags": [],
+  "claps": [],
+  "createdAt": {
+    "$date": "2026-07-10T18:13:36.399Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-10T18:13:47.081Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a5136b19ea2b620fb8f0f9c"
+  },
+  "title": "How to Save Money Every Month",
+  "slug": "how-to-save-money-every-month",
+  "content": "Creating a monthly budget, tracking expenses, avoiding unnecessary purchases, and setting financial goals are effective ways to build savings and achieve financial stability.",
+  "coverImage": "https://images.unsplash.com/photo-1554224155-6726b3ff858f?w=1000",
+  "status": "published",
+  "readTimeMinutes": 1,
+  "author": {
+    "$oid": "6a5135e59ea2b620fb8f0f73"
+  },
+  "tags": [],
+  "claps": [],
+  "createdAt": {
+    "$date": "2026-07-10T18:15:13.600Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-10T18:15:13.600Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a5136ff9ea2b620fb8f0fa5"
+  },
+  "title": "Understanding Climate Change and Its Impact",
+  "slug": "understanding-climate-change-and-its-impact",
+  "content": "Climate change is causing rising temperatures, extreme weather events, and sea level increases across the world. Reducing pollution, saving energy, and planting more trees are important steps toward protecting the environment.",
+  "coverImage": "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?w=1000",
+  "status": "published",
+  "readTimeMinutes": 1,
+  "author": {
+    "$oid": "6a5135e59ea2b620fb8f0f73"
+  },
+  "tags": [],
+  "claps": [
+    {
+      "$oid": "6a5135e59ea2b620fb8f0f73"
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-07-10T18:16:31.698Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-10T18:17:07.907Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6a5137809ea2b620fb8f0fcc"
+  },
+  "title": "How Space Exploration is Changing Our Future",
+  "slug": "how-space-exploration-is-changing-our-future",
+  "content": "Space exploration has led to major scientific discoveries and technological advancements. Modern missions focus on the Moon, Mars, and deep space while improving communication, navigation, and our understanding of the universe.\n ",
+  "coverImage": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=1000",
+  "status": "published",
+  "readTimeMinutes": 1,
+  "author": {
+    "$oid": "6a5135e59ea2b620fb8f0f73"
+  },
+  "tags": [],
+  "claps": [],
+  "createdAt": {
+    "$date": "2026-07-10T18:18:40.818Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-10T18:18:40.818Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a5137a89ea2b620fb8f0fd6"
+  },
+  "title": "Understanding Climate Change and Its Impact",
+  "slug": "understanding-climate-change-and-its-impact-1",
+  "content": "Climate change is causing rising temperatures, extreme weather events, and sea level increases across the world. Reducing pollution, saving energy, and planting more trees are important steps toward protecting the environment.",
+  "coverImage": "https://images.unsplash.com/photo-1472214103451-9374bd1c798e?w=1000",
+  "status": "published",
+  "readTimeMinutes": 1,
+  "author": {
+    "$oid": "6a5135e59ea2b620fb8f0f73"
+  },
+  "tags": [],
+  "claps": [],
+  "createdAt": {
+    "$date": "2026-07-10T18:19:20.378Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-10T18:19:20.378Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a51395c9c70d537e1869867"
+  },
+  "coverImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1000",
+  "title": "The Future of Artificial Intelligence",
+  "body": "Artificial Intelligence is transforming industries by automating repetitive tasks, improving decision-making, and enabling innovative solutions. From healthcare to education, AI continues to reshape the way people live and work while creating new opportunities for businesses worldwide."
+},
+{
+  "_id": {
+    "$oid": "6a513a2e9ea2b620fb8f1009"
+  },
+  "title": "How Technology Shapes the Future",
+  "slug": "how-technology-shapes-the-future",
+  "content": "Technological innovation continues to improve communication, healthcare, transportation, and education. By embracing emerging technologies responsibly, society can solve complex global challenges and create a more connected world.",
+  "coverImage": "https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=1000",
+  "status": "published",
+  "readTimeMinutes": 1,
+  "author": {
+    "$oid": "6a5139bd9ea2b620fb8f0ff0"
+  },
+  "tags": [],
+  "claps": [
+    {
+      "$oid": "6a5139bd9ea2b620fb8f0ff0"
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-07-10T18:30:06.523Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-10T18:30:29.957Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6a513ad29ea2b620fb8f101b"
+  },
+  "title": "Exploring the Beauty of Nature",
+  "slug": "exploring-the-beauty-of-nature",
+  "content": "Nature offers breathtaking landscapes, fresh air, and peaceful environments that reduce stress and improve overall well-being. Protecting forests, rivers, and wildlife ensures future generations can enjoy Earth's natural beauty.",
+  "coverImage": "https://images.unsplash.com/photo-1506744038136-46273834b3fb?w=1000",
+  "status": "published",
+  "readTimeMinutes": 1,
+  "author": {
+    "$oid": "6a5139bd9ea2b620fb8f0ff0"
+  },
+  "tags": [],
+  "claps": [],
+  "createdAt": {
+    "$date": "2026-07-10T18:32:50.840Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-10T18:32:50.840Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a513af59ea2b620fb8f1024"
+  },
+  "title": "Healthy Habits for Everyday Life",
+  "slug": "healthy-habits-for-everyday-life",
+  "content": "Maintaining a balanced diet, exercising regularly, staying hydrated, and getting enough sleep significantly improve physical and mental well-being. Consistency is the key to long-term health.\n",
+  "coverImage": "https://images.unsplash.com/photo-1496307042754-b4aa456c4a2d?w=1000",
+  "status": "published",
+  "readTimeMinutes": 1,
+  "author": {
+    "$oid": "6a5139bd9ea2b620fb8f0ff0"
+  },
+  "tags": [],
+  "claps": [
+    {
+      "$oid": "6a513caa9ea2b620fb8f10c0"
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-07-10T18:33:25.353Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-10T18:41:13.565Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6a513b4e9ea2b620fb8f103c"
+  },
+  "title": "Travel Destinations Everyone Should Visit",
+  "slug": "travel-destinations-everyone-should-visit",
+  "content": "Exploring new destinations introduces people to diverse cultures, cuisines, and traditions. Traveling also creates unforgettable memories while expanding knowledge about history, nature, and local communities.",
+  "coverImage": "https://images.unsplash.com/photo-1494526585095-c41746248156?w=1000",
+  "status": "published",
+  "readTimeMinutes": 1,
+  "author": {
+    "$oid": "6a5139bd9ea2b620fb8f0ff0"
+  },
+  "tags": [],
+  "claps": [],
+  "createdAt": {
+    "$date": "2026-07-10T18:34:54.326Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-10T18:34:54.326Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a513e629ea2b620fb8f113e"
+  },
+  "title": "The Future of Artificial Intelligence",
+  "slug": "the-future-of-artificial-intelligence",
+  "content": "Artificial Intelligence is transforming industries by automating repetitive tasks, improving decision-making, and enabling innovative solutions. From healthcare to education, AI continues to reshape the way people live and work while creating new opportunities for businesses worldwide.",
+  "coverImage": "https://images.unsplash.com/photo-1518770660439-4636190af475?w=1000",
+  "status": "published",
+  "readTimeMinutes": 1,
+  "author": {
+    "$oid": "6a513caa9ea2b620fb8f10c0"
+  },
+  "tags": [],
+  "claps": [],
+  "createdAt": {
+    "$date": "2026-07-10T18:48:02.296Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-10T18:48:02.296Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a513e9a9ea2b620fb8f1147"
+  },
+  "title": "Why Learning Web Development Matters",
+  "slug": "why-learning-web-development-matters",
+  "content": "Web development is one of the most valuable skills in today's digital world. By learning HTML, CSS, JavaScript, React, Node.js, and MongoDB, developers can create interactive websites and powerful web applications used by millions of people.",
+  "coverImage": "https://images.unsplash.com/photo-1516321318423-f06f85e504b3?w=1000",
+  "status": "published",
+  "readTimeMinutes": 1,
+  "author": {
+    "$oid": "6a513caa9ea2b620fb8f10c0"
+  },
+  "tags": [],
+  "claps": [],
+  "createdAt": {
+    "$date": "2026-07-10T18:48:58.142Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-10T18:48:58.142Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a513eb39ea2b620fb8f1150"
+  },
+  "title": "Building Modern Applications with MERN Stack",
+  "slug": "building-modern-applications-with-mern-stack",
+  "content": "The MERN stack combines MongoDB, Express.js, React, and Node.js to create fast, scalable, and efficient web applications. It provides JavaScript developers with a complete solution for full-stack development.",
+  "coverImage": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1000",
+  "status": "published",
+  "readTimeMinutes": 1,
+  "author": {
+    "$oid": "6a513caa9ea2b620fb8f10c0"
+  },
+  "tags": [],
+  "claps": [],
+  "createdAt": {
+    "$date": "2026-07-10T18:49:23.230Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-10T18:49:23.230Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a513ed19ea2b620fb8f1159"
+  },
+  "title": "Cybersecurity in the Digital Age",
+  "slug": "cybersecurity-in-the-digital-age",
+  "content": "Cybersecurity has become essential as cyber threats continue to evolve. Strong passwords, multi-factor authentication, encrypted communication, and regular software updates help individuals and organizations protect sensitive information.",
+  "coverImage": "https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=1000",
+  "status": "published",
+  "readTimeMinutes": 1,
+  "author": {
+    "$oid": "6a513caa9ea2b620fb8f10c0"
+  },
+  "tags": [],
+  "claps": [],
+  "createdAt": {
+    "$date": "2026-07-10T18:49:53.574Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-10T18:49:53.574Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a513f109ea2b620fb8f117d"
+  },
+  "title": "Cloud Computing Explained",
+  "slug": "cloud-computing-explained",
+  "content": "Cloud computing allows businesses and individuals to store data and run applications over the internet. It reduces infrastructure costs, improves accessibility, and enables teams to collaborate efficiently from anywhere.",
+  "coverImage": "https://images.unsplash.com/photo-1504384308090-c894fdcc538d?w=1000",
+  "status": "draft",
+  "readTimeMinutes": 1,
+  "author": {
+    "$oid": "6a513eef9ea2b620fb8f1162"
+  },
+  "tags": [],
+  "claps": [
+    {
+      "$oid": "6a5139bd9ea2b620fb8f0ff0"
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-07-10T18:50:56.854Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-01T17:15:45.646Z"
+  },
+  "__v": 1
+},
+{
+  "_id": {
+    "$oid": "6a513f309ea2b620fb8f1186"
+  },
+  "title": "Top Programming Languages in 2026",
+  "slug": "top-programming-languages-in-2026",
+  "content": "Programming languages such as JavaScript, Python, TypeScript, Java, Go, and Rust continue to dominate software development. Choosing the right language depends on project requirements, performance, and long-term maintainability.",
+  "coverImage": "https://images.unsplash.com/photo-1516321497487-e288fb19713f?w=1000",
+  "status": "published",
+  "readTimeMinutes": 1,
+  "author": {
+    "$oid": "6a513eef9ea2b620fb8f1162"
+  },
+  "tags": [],
+  "claps": [],
+  "createdAt": {
+    "$date": "2026-07-10T18:51:28.287Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-10T18:51:28.287Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a513f539ea2b620fb8f1195"
+  },
+  "title": "Remote Work and Productivity",
+  "slug": "remote-work-and-productivity",
+  "content": "Remote work has changed how organizations operate. Effective communication, task management tools, flexible schedules, and healthy work habits help employees remain productive while maintaining a healthy work-life balance.",
+  "coverImage": "https://images.unsplash.com/photo-1521737604893-d14cc237f11d?w=1000",
+  "status": "published",
+  "readTimeMinutes": 1,
+  "author": {
+    "$oid": "6a513eef9ea2b620fb8f1162"
+  },
+  "tags": [],
+  "claps": [],
+  "createdAt": {
+    "$date": "2026-07-10T18:52:03.196Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-10T18:52:03.196Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a513f6b9ea2b620fb8f119e"
+  },
+  "title": "Understanding Data Analytics",
+  "slug": "understanding-data-analytics",
+  "content": "Data analytics helps organizations discover patterns, predict trends, and make informed business decisions. Modern analytics tools transform raw information into meaningful insights that improve operational efficiency.",
+  "coverImage": "https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=1000",
+  "status": "published",
+  "readTimeMinutes": 1,
+  "author": {
+    "$oid": "6a513eef9ea2b620fb8f1162"
+  },
+  "tags": [],
+  "claps": [],
+  "createdAt": {
+    "$date": "2026-07-10T18:52:27.289Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-10T18:52:27.289Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a513fd69ea2b620fb8f11c2"
+  },
+  "title": "The Rise of Blockchain Technology",
+  "slug": "the-rise-of-blockchain-technology",
+  "content": "Blockchain technology enables secure and transparent digital transactions. Beyond cryptocurrencies, blockchain is increasingly used in healthcare, supply chain management, finance, and digital identity verification.",
+  "coverImage": "https://images.unsplash.com/photo-1516321165247-4aa89a48be28?w=1000",
+  "status": "published",
+  "readTimeMinutes": 1,
+  "author": {
+    "$oid": "6a5139bd9ea2b620fb8f0ff0"
+  },
+  "tags": [],
+  "claps": [],
+  "createdAt": {
+    "$date": "2026-07-10T18:54:14.349Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-10T18:54:14.349Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a513ff09ea2b620fb8f11cb"
+  },
+  "title": "How Machine Learning Improves Everyday Life",
+  "slug": "how-machine-learning-improves-everyday-life",
+  "content": "Machine learning powers recommendation systems, voice assistants, fraud detection, and personalized shopping experiences. As algorithms continue to improve, machine learning will become an even more important part of daily life.\n",
+  "coverImage": "",
+  "status": "published",
+  "readTimeMinutes": 1,
+  "author": {
+    "$oid": "6a5139bd9ea2b620fb8f0ff0"
+  },
+  "tags": [],
+  "claps": [
+    {
+      "$oid": "6a5139bd9ea2b620fb8f0ff0"
+    },
+    {
+      "$oid": "6a513eef9ea2b620fb8f1162"
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-07-10T18:54:40.121Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-01T17:11:29.909Z"
+  },
+  "__v": 2
+},
+{
+  "_id": {
+    "$oid": "6a51400a9ea2b620fb8f11d4"
+  },
+  "title": "Sustainable Living for a Better Future",
+  "slug": "sustainable-living-for-a-better-future",
+  "content": "Small lifestyle changes such as reducing waste, recycling materials, conserving water, and using renewable energy sources contribute to a healthier planet. Sustainable living benefits both current and future generations.",
+  "coverImage": "",
+  "status": "published",
+  "readTimeMinutes": 1,
+  "author": {
+    "$oid": "6a5139bd9ea2b620fb8f0ff0"
+  },
+  "tags": [],
+  "claps": [],
+  "createdAt": {
+    "$date": "2026-07-10T18:55:06.387Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-10T18:55:06.387Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a5b86797ac9dfc01c76886a"
+  },
+  "title": "The Future of Artificial Intelligence in Everyday Life",
+  "slug": "the-future-of-artificial-intelligence-in-everyday-life",
+  "content": "Artificial Intelligence is rapidly becoming part of our daily routines. From voice assistants and personalized recommendations to healthcare and education, AI is transforming how people work, communicate, and solve problems. Understanding its benefits and challenges helps us prepare for a future where intelligent technology supports almost every aspect of life.",
+  "coverImage": "https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200",
+  "status": "published",
+  "readTimeMinutes": 1,
+  "author": {
+    "$oid": "6a5135e59ea2b620fb8f0f73"
+  },
+  "tags": [],
+  "claps": [],
+  "createdAt": {
+    "$date": "2026-07-18T13:58:17.348Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-18T13:58:17.348Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6a5b86b27ac9dfc01c76888f"
+  },
+  "title": "10 Web Development Trends Every MERN Developer Should Know",
+  "slug": "10-web-development-trends-every-mern-developer-should-know",
+  "content": "Modern web development is evolving quickly with technologies like React, Node.js, MongoDB, and Express. Developers are adopting TypeScript, server-side rendering, AI-powered coding tools, responsive design, and cloud deployment to build faster and more scalable applications. Staying updated with these trends helps MERN developers create high-quality web applications.",
+  "coverImage": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=1200",
+  "status": "draft",
+  "readTimeMinutes": 1,
+  "author": {
+    "$oid": "6a5135e59ea2b620fb8f0f73"
+  },
+  "tags": [],
+  "claps": [],
+  "createdAt": {
+    "$date": "2026-07-18T13:59:14.602Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-18T13:59:14.602Z"
+  },
+  "__v": 0
+}]

@@ -1,0 +1,120 @@
+[{
+  "_id": {
+    "$oid": "6a5135e59ea2b620fb8f0f73"
+  },
+  "name": "Admin",
+  "email": "admin@gmail.com",
+  "passwordHash": "$2a$10$CZ/IRnIjQfBjKdeJTc3a0uDLQ5Vu/qtqnT2MAcyuWGAG9VI/ZJ.BK",
+  "bio": "",
+  "avatarUrl": "",
+  "following": [],
+  "bookmarks": [
+    {
+      "$oid": "6a5136ff9ea2b620fb8f0fa5"
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-07-10T18:11:49.994Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-10T18:17:19.511Z"
+  },
+  "__v": 3,
+  "isAdmin": "true"
+},
+{
+  "_id": {
+    "$oid": "6a5139bd9ea2b620fb8f0ff0"
+  },
+  "name": "Kalagi",
+  "email": "kalagimanavadariya@gmail.com",
+  "passwordHash": "$2a$10$O/3lvXW5gGYYeSFhbKR8GOHKT1VmZNtKFqg.e9QUnA6JVi6dJX1Bu",
+  "bio": "",
+  "avatarUrl": "",
+  "following": [
+    {
+      "$oid": "6a5135e59ea2b620fb8f0f73"
+    },
+    {
+      "$oid": "6a513caa9ea2b620fb8f10c0"
+    }
+  ],
+  "bookmarks": [
+    {
+      "$oid": "6a5b86797ac9dfc01c76886a"
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-07-10T18:28:13.399Z"
+  },
+  "updatedAt": {
+    "$date": "2026-07-18T14:47:00.105Z"
+  },
+  "__v": 7,
+  "isAdmin": false
+},
+{
+  "_id": {
+    "$oid": "6a513caa9ea2b620fb8f10c0"
+  },
+  "name": "Jyot",
+  "email": "jyot@gmail.com",
+  "passwordHash": "$2a$10$jyyc9a7hTHvwx2Ebcolr4.oR0rwBABnaSW3hoHhiRxDvvLYQ9UvSq",
+  "bio": "",
+  "avatarUrl": "",
+  "following": [
+    {
+      "$oid": "6a5139bd9ea2b620fb8f0ff0"
+    },
+    {
+      "$oid": "6a5135e59ea2b620fb8f0f73"
+    }
+  ],
+  "bookmarks": [
+    {
+      "$oid": "6a513af59ea2b620fb8f1024"
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-07-10T18:40:42.428Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-01T16:21:04.850Z"
+  },
+  "__v": 11,
+  "isAdmin": false
+},
+{
+  "_id": {
+    "$oid": "6a513eef9ea2b620fb8f1162"
+  },
+  "name": "Vrunda",
+  "email": "vru@gmail.com",
+  "passwordHash": "$2a$10$Fb5/OHZwPnwwOGHCWg.TSOrlmgm0DNhuko9Gix0.5tCznd0jBIEWm",
+  "bio": "",
+  "avatarUrl": "",
+  "following": [
+    {
+      "$oid": "6a5139bd9ea2b620fb8f0ff0"
+    },
+    {
+      "$oid": "6a513caa9ea2b620fb8f10c0"
+    }
+  ],
+  "bookmarks": [
+    {
+      "$oid": "6a51400a9ea2b620fb8f11d4"
+    },
+    {
+      "$oid": "6a513ff09ea2b620fb8f11cb"
+    }
+  ],
+  "createdAt": {
+    "$date": "2026-07-10T18:50:23.352Z"
+  },
+  "updatedAt": {
+    "$date": "2026-08-01T17:11:31.093Z"
+  },
+  "__v": 8,
+  "isAdmin": false
+}]
